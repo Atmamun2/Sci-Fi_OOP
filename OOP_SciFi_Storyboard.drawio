@@ -1,0 +1,140 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.4">
+  <diagram name="Page-1" id="2VNvsaiyCYB8qkoAZ7Qa">
+    <mxGraphModel dx="540" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IjzhqkyLmClslWE1_LPw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IjzhqkyLmClslWE1_LPw-2" target="IjzhqkyLmClslWE1_LPw-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-2" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;quote cj&quot; color=&quot;#404040&quot;&gt;&lt;i&gt;&quot;You&#39;re in the dim Maintenance Tunnels. Exposed wires hum with residual power. A diagnostic tool glows on the floor. To the EAST, a flickering service droid blocks the path, its circuits sparking erratically.&quot;&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFF2CC;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IjzhqkyLmClslWE1_LPw-3" target="IjzhqkyLmClslWE1_LPw-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-3" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;quote cj&quot; color=&quot;#404040&quot;&gt;&lt;b&gt;You pick up the diagnostic tool. (+10).&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;quote cj&quot; color=&quot;#404040&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;quote cj&quot; color=&quot;#404040&quot;&gt;&lt;b&gt;(Score: 10 | Hazards: 0)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="50" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-7" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 9px;&quot;&gt;pick up tool&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#EFF1F0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IjzhqkyLmClslWE1_LPw-9" target="IjzhqkyLmClslWE1_LPw-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-9" value="&lt;font face=&quot;quote cj&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;The tunnels are quieter now. The droid still blocks the east exit, whirring in distress.&lt;/i&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="460" y="50" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-11" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 9px;&quot;&gt;move east&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#EFF1F0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="90" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="IjzhqkyLmClslWE1_LPw-12" target="IjzhqkyLmClslWE1_LPw-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="745" y="200" />
+              <mxPoint x="125" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-12" value="&lt;b&gt;&lt;font face=&quot;quote cj&quot; style=&quot;font-size: 9px;&quot;&gt;The droid shudders and shocks you! It&#39;s broken and won&#39;t let you pass. (+1 Hazard)&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot; face=&quot;quote cj&quot;&gt;(Score: 10 | Hazards: 1)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="680" y="50" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="IjzhqkyLmClslWE1_LPw-15" target="IjzhqkyLmClslWE1_LPw-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-15" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;quote cj&quot;&gt;&lt;i&gt;The droid&#39;s red eyes flicker. It needs repairs.&lt;/i&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-17" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 9px;&quot;&gt;use tool&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#EFF1F0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="IjzhqkyLmClslWE1_LPw-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="285" as="targetPoint" />
+            <mxPoint x="410" y="285" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-19" value="&lt;b&gt;&lt;font face=&quot;quote cj&quot; style=&quot;font-size: 9px;&quot;&gt;You fix the droid! It beeps gratefully and rolls away (+20).&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;quote cj&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;quote cj&quot; style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b&gt;(Score: 30 | Hazards: 1)&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IjzhqkyLmClslWE1_LPw-21" target="IjzhqkyLmClslWE1_LPw-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-21" value="&lt;i&gt;&lt;font face=&quot;quote cj&quot; style=&quot;font-size: 9px;&quot;&gt;The path east is now clear. The droid is gone.&lt;/font&gt;&lt;/i&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="IjzhqkyLmClslWE1_LPw-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="745" y="370" />
+              <mxPoint x="110" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-23" value="&lt;font face=&quot;quote cj&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;&quot;You enter the Docking Bay.&quot;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="680" y="220" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-26" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 9px;&quot;&gt;move east&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#EFF1F0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="260" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IjzhqkyLmClslWE1_LPw-28" target="IjzhqkyLmClslWE1_LPw-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-28" value="&lt;font face=&quot;quote cj&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;i&gt;The Docking Bay is littered with debris. A glowing energy crystal pulses atop a crate. A ship awaits to the NORTH.&lt;/i&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-30" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 8px;&quot;&gt;pick up crystal&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#EFF1F0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="430" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="IjzhqkyLmClslWE1_LPw-33" target="IjzhqkyLmClslWE1_LPw-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-33" value="&lt;font size=&quot;1&quot; style=&quot;font-size: 9px;&quot; face=&quot;quote cj&quot;&gt;&lt;b&gt;You secure the crystal!&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-family: &amp;quot;quote cj&amp;quot;; font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(+50).&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;font size=&quot;1&quot; face=&quot;quote cj&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot; face=&quot;quote cj&quot;&gt;&lt;b&gt;(Score: 80 | Hazards: 1)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IjzhqkyLmClslWE1_LPw-35" target="IjzhqkyLmClslWE1_LPw-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-35" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot; color=&quot;#404040&quot;&gt;&lt;i&gt;The crystal&#39;s light reflects off the ship&#39;s hull.&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="460" y="390" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-38" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 9px;&quot;&gt;status&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#EFF1F0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="430" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="IjzhqkyLmClslWE1_LPw-39" target="IjzhqkyLmClslWE1_LPw-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="745" y="570" />
+              <mxPoint x="445" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-39" value="&lt;b&gt;&lt;font face=&quot;quote cj&quot; style=&quot;font-size: 9px;&quot;&gt;(Score: 80 | Hazards: 1)&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="680" y="390" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-41" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;quote cj&quot;&gt;&lt;b&gt;You&amp;nbsp;escaped the station! Final score: 110&lt;br&gt;&lt;br&gt;(80 + 30 hazard bonus).&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="380" y="610" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IjzhqkyLmClslWE1_LPw-43" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 9px;&quot;&gt;win&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#EFF1F0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="540" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
