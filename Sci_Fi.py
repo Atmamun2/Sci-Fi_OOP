@@ -43,7 +43,7 @@ class Location:
     def describe(self):
         print(self.name + "\n" + self.description + "\n")
         if self.has_tool:
-            print("You see a diagnostic tool here. \n")
+            print(f"You see a diagnostic tool here. \n")
         if self.has_crystal:
             print("You see an energy crystal here. \n")
         if self.droid_present:
@@ -109,6 +109,7 @@ class Player:
             self.current_location.has_tool = False
             self.has_tool = True
             self.score += 10
+            print(f"You pick up the diagnostic tool. (Score: {self.score} | Hazards: {self.hazard_count})")
             return True
         else:
             print("There is no tool to pick up. \n")
@@ -119,6 +120,7 @@ class Player:
             self.current_location.droid.repair()
             self.current_location.droid_present = False
             self.score += 20
+            print(f"You use the tool to repair the droid. It moves aside! (Score: {self.score} | Hazards: {self.hazard_count})")
             return True
         else:
             return False
@@ -128,6 +130,7 @@ class Player:
             self.current_location.has_crystal = False
             self.has_crystal = True
             self.score += 50
+            print(f"You pick up the energy crystal. (Score: {self.score} | Hazards: {self.hazard_count})")
             return True
         else:
             print("There is no crystal to pick up. \n")
@@ -141,7 +144,7 @@ class GameController:
         # location instances
         maint_tunnels = Location(
             name="Maintenance Tunnels",
-            description="Dimly lit tunnels filled with the hum of machinery.",
+            description="You're in the dim Maintenance Tunnels. Exposed wires hum with residual power. A diagnostic tool glows on the floor.\nTo the EAST, a flickering service droid blocks the path, its circuits sparking erratically.",
             exits={},
             has_tool=True,
             has_crystal=False,
@@ -217,19 +220,19 @@ class GameController:
 
     def _handle_pick_up_tool(self):
         if self.player.pick_up_tool():
-            print("You pick up the diagnostic tool.")
+            self.maintanence_tunnels.description = "The tunnels are quieter now. The droid still blocks the east exit, whirring in distress."
         else:
             print("There is no tool to pick up.") 
 
     def _handle_use_tool(self):
         if self.player.use_tool_on_droid():
-            print("You use the tool to repair the droid. It moves aside!")
+            self.maintanence_tunnels.description = "The tunnels are quiet now. The droid no longer blocks the east exit."
         else:
             print("Nothing happens.")
 
     def _handle_pick_up_crystal(self):
         if self.player.pick_up_crystal():
-            print("You pick up the energy crystal.")
+            self.docking_bay.description = "The crystal glows with a steady, stable energy. The docking bay is now safe to enter."
         else:
             print("There is no crystal to pick up.") 
 
@@ -247,7 +250,8 @@ class GameController:
             getattr(self, 'last_command', '').strip().lower() == 'win'
         ):
             self.player.score += 30
-            print(f"Mission complete! Final Score: {self.player.score} Total Hazards: {self.player.hazard_count}")
+            print(f"You escaped the Sci-Fi Station! \n")
+            print(f"Mission complete! (Final Score: {self.player.score} | Total Hazards: {self.player.hazard_count})")
             return True
         return False
 

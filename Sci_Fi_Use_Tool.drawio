@@ -1,29 +1,29 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="ZdAC8DjgK0ei3d330rP9">
-    <mxGraphModel dx="1385" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="935" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-1" target="Nf-iTXX-ic80Zo7nPR0V-3">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-1" target="Nf-iTXX-ic80Zo7nPR0V-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="70" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-3" target="Nf-iTXX-ic80Zo7nPR0V-5">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-3" target="Nf-iTXX-ic80Zo7nPR0V-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-3" value="You see a diagnostic tool here." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-3" value="You see a diagnostic tool here." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-5" target="Nf-iTXX-ic80Zo7nPR0V-10">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-5" target="Nf-iTXX-ic80Zo7nPR0V-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-5" target="Nf-iTXX-ic80Zo7nPR0V-16">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-5" target="Nf-iTXX-ic80Zo7nPR0V-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="620" as="targetPoint" />
             <Array as="points">
@@ -32,7 +32,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-5" target="Nf-iTXX-ic80Zo7nPR0V-26">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-5" target="Nf-iTXX-ic80Zo7nPR0V-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="820" as="targetPoint" />
             <Array as="points">
@@ -41,19 +41,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-5" value="What do you&amp;nbsp;&lt;div&gt;want to do?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-5" value="What do you&amp;nbsp;&lt;div&gt;want to do?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="260" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-8" value="pick up tool" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-8" value="pick up tool" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="360" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-10" target="Nf-iTXX-ic80Zo7nPR0V-11">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-10" target="Nf-iTXX-ic80Zo7nPR0V-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-10" value="Player picks up&lt;div&gt;the diagnostic&lt;/div&gt;&lt;div&gt;tool&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-10" value="Player picks up&lt;div&gt;the diagnostic&lt;/div&gt;&lt;div&gt;tool&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-11" target="Nf-iTXX-ic80Zo7nPR0V-5">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-11" target="Nf-iTXX-ic80Zo7nPR0V-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="440" y="530" />
@@ -61,24 +61,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-11" value="A maintenance droid blocks the way!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-11" value="A maintenance droid blocks the way!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-15" value="use tool" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-15" value="use tool" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="448" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-16" target="Nf-iTXX-ic80Zo7nPR0V-19">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-16" target="Nf-iTXX-ic80Zo7nPR0V-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-16" value="You use the tool to repair the droid. It moves aside!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-16" value="You use the tool to repair the droid. It moves aside!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-18" value="You move east.&amp;nbsp;&lt;div&gt;Docking Bay.&lt;br&gt;You see an energy crystal here.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-18" value="You move east.&amp;nbsp;&lt;div&gt;Docking Bay.&lt;br&gt;You see an energy crystal here.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="110" y="670" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-19" target="Nf-iTXX-ic80Zo7nPR0V-5">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-19" target="Nf-iTXX-ic80Zo7nPR0V-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="690" />
@@ -86,31 +86,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-19" value="You see an energy crystal here." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-19" value="You see an energy crystal here." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-23" value="pick up crystal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-23" value="pick up crystal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="585" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-24" value="droid obstacle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-24" value="droid obstacle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="438" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-25" value="energy crystal awaits" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-25" value="energy crystal awaits" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="570" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-26" target="Nf-iTXX-ic80Zo7nPR0V-30">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-26" target="Nf-iTXX-ic80Zo7nPR0V-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-26" value="You picked up the energy crystal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-26" value="You picked up the energy crystal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-30" target="Nf-iTXX-ic80Zo7nPR0V-32">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nf-iTXX-ic80Zo7nPR0V-30" target="Nf-iTXX-ic80Zo7nPR0V-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-30" value="player&lt;div&gt;inputs &#39;win&#39;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-30" value="player&lt;div&gt;inputs &#39;win&#39;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-32" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nf-iTXX-ic80Zo7nPR0V-32" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="740" width="120" height="80" as="geometry" />
         </mxCell>
       </root>

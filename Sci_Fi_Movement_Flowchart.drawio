@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1385" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="935" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -16,7 +16,7 @@
         <mxCell id="EHw5a0vW831Tq77dEe0c-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EHw5a0vW831Tq77dEe0c-1" target="EHw5a0vW831Tq77dEe0c-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mCckSI2Rnjgi5m0GQyrb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EHw5a0vW831Tq77dEe0c-1" target="mCckSI2Rnjgi5m0GQyrb-18">
+        <mxCell id="mCckSI2Rnjgi5m0GQyrb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EHw5a0vW831Tq77dEe0c-1" target="mCckSI2Rnjgi5m0GQyrb-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="810" as="targetPoint" />
             <Array as="points">
@@ -57,7 +57,7 @@
             <mxPoint x="230" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mCckSI2Rnjgi5m0GQyrb-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EHw5a0vW831Tq77dEe0c-13" target="EHw5a0vW831Tq77dEe0c-22">
+        <mxCell id="mCckSI2Rnjgi5m0GQyrb-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EHw5a0vW831Tq77dEe0c-13" target="EHw5a0vW831Tq77dEe0c-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EHw5a0vW831Tq77dEe0c-13" value="User picks&amp;nbsp;&lt;div&gt;ups the tool&amp;nbsp;&lt;/div&gt;&lt;div&gt;and uses it&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -75,13 +75,13 @@
         <mxCell id="EHw5a0vW831Tq77dEe0c-16" value="user inputs &#39;move north&#39;&amp;nbsp;&lt;div&gt;or &#39;move south&#39;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="145" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="mCckSI2Rnjgi5m0GQyrb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EHw5a0vW831Tq77dEe0c-22" target="mCckSI2Rnjgi5m0GQyrb-9">
+        <mxCell id="mCckSI2Rnjgi5m0GQyrb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EHw5a0vW831Tq77dEe0c-22" target="mCckSI2Rnjgi5m0GQyrb-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EHw5a0vW831Tq77dEe0c-22" value="You move east.&lt;br&gt;Docking Bay." style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mCckSI2Rnjgi5m0GQyrb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mCckSI2Rnjgi5m0GQyrb-9" target="EHw5a0vW831Tq77dEe0c-1">
+        <mxCell id="mCckSI2Rnjgi5m0GQyrb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mCckSI2Rnjgi5m0GQyrb-9" target="EHw5a0vW831Tq77dEe0c-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="115" y="680" />
@@ -89,30 +89,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mCckSI2Rnjgi5m0GQyrb-9" value="Player picks&amp;nbsp;&lt;div&gt;up the crystal&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mCckSI2Rnjgi5m0GQyrb-9" value="Player picks&amp;nbsp;&lt;div&gt;up the crystal&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mCckSI2Rnjgi5m0GQyrb-17" value="win" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mCckSI2Rnjgi5m0GQyrb-17" value="win" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="730" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mCckSI2Rnjgi5m0GQyrb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mCckSI2Rnjgi5m0GQyrb-18" target="mCckSI2Rnjgi5m0GQyrb-20">
+        <mxCell id="mCckSI2Rnjgi5m0GQyrb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mCckSI2Rnjgi5m0GQyrb-18" target="mCckSI2Rnjgi5m0GQyrb-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="225" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mCckSI2Rnjgi5m0GQyrb-18" value="Does the player&amp;nbsp;&lt;div&gt;have the crystal?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mCckSI2Rnjgi5m0GQyrb-18" value="Does the player&amp;nbsp;&lt;div&gt;have the crystal?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="740" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mCckSI2Rnjgi5m0GQyrb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mCckSI2Rnjgi5m0GQyrb-20" target="mCckSI2Rnjgi5m0GQyrb-21">
+        <mxCell id="mCckSI2Rnjgi5m0GQyrb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mCckSI2Rnjgi5m0GQyrb-20" target="mCckSI2Rnjgi5m0GQyrb-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mCckSI2Rnjgi5m0GQyrb-20" value="Mission complete! Final Score {final_score} Total Hazards: {hazard_count}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mCckSI2Rnjgi5m0GQyrb-20" value="Mission complete! Final Score {final_score} Total Hazards: {hazard_count}" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="850" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mCckSI2Rnjgi5m0GQyrb-21" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mCckSI2Rnjgi5m0GQyrb-21" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="460" y="650" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mCckSI2Rnjgi5m0GQyrb-23" value="Note: This is including player picking up tool and crystal due to requiring for player&#39;s movement progression." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mCckSI2Rnjgi5m0GQyrb-23" value="Note: This is including player picking up tool and crystal due to requiring for player&#39;s movement progression." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="455" y="450" width="235" height="30" as="geometry" />
         </mxCell>
       </root>
