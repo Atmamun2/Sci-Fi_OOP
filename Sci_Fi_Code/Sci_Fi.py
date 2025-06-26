@@ -182,7 +182,25 @@ class GameController:
         print(f"Welcome to the Sci-Fi Adventure, {self.player.name}!")
         while True:
             self.player.current_location.describe()
-            command = input("\nWhat do you want to do? ")
+            
+            # # Show available exits
+            # exits = ", ".join(self.player.current_location.exits.keys())
+            # print(f"\nExits: {exits}")
+            
+            # Show available actions
+            print("\nAvailable actions:")
+            print("- move <direction> (e.g., 'move east')")
+            if self.player.current_location.has_tool and not self.player.has_tool:
+                print("- pick up tool")
+            if self.player.current_location.has_crystal and not self.player.has_crystal:
+                print("- pick up crystal")
+            if self.player.current_location.droid_present and self.player.has_tool:
+                print("- use tool")
+            print("- status (check your score and hazards)")
+            if self.player.current_location == self.docking_bay and self.player.has_crystal:
+                print("- win (escape the station!)")
+                
+            command = input("\nWhat do you want to do? ").strip().lower()
             self.process_input(command) 
             if self.check_win_condition():
                 break
