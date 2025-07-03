@@ -1,6 +1,5 @@
-import utils, setup
+import utils
 from utils import DiagnosticTool, EnergyCrystal
-from setup import GameController
 
 '''
 This file contains the Location class and the DamagedMaintenanceDroid class.

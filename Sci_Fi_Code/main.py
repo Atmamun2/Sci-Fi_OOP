@@ -1,6 +1,4 @@
-import settings, setup
-from settings import Location, DamagedMaintenanceDroid
-from utils import DiagnosticTool, EnergyCrystal
+import setup
 from setup import GameController
 
 if __name__ == "__main__":
