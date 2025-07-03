@@ -120,7 +120,10 @@ python Sci_Fi_Code/Sci_Fi.py
 ```
 Sci-Fi_OOP/
 ├── Sci_Fi_Code/
-│   └── Sci_Fi.py          # Main game implementation
+│   ├── main.py         # main file
+│   ├── settings.py     # Settings/location of the main game
+│   ├── setup.py        # Game controller class and main setup
+│   └── utils.py        # Main game tools and implementation of features
 ├── Sci_Fi_Documentation/
 │   ├── logbook.md         # Development log
 │   ├── README.md          # Documentation
