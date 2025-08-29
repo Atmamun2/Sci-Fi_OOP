@@ -2,10 +2,10 @@
 This file contains the StationItem class and its subclasses.
 '''
 
-class StationItem:
+class StationItem: 
     def __init__(self, name, description):
         self._name = name
-        self._description = description
+        self._description = description # protected attributes
 
     def examine(self):
         return f"{self._name}: {self._description}"
@@ -13,14 +13,14 @@ class StationItem:
 
 class DiagnosticTool(StationItem):
     def __init__(self, name, description):
-        super().__init__(name, description)
+        super().__init__(name, description) # inherits from StationItem name and description protected attributes
 
     def examine(self):
         print("This diagnostic tool seems designed to interface with maintenance droids. \n")
 
 class EnergyCrystal(StationItem):
     def __init__(self, name, description):
-        super().__init__(name, description)
+        super().__init__(name, description)    
 
     def examine(self):
         print("The crystal pulses with an unstable, vibrant energy.")
